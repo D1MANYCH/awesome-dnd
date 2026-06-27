@@ -67,6 +67,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [D&D Beyond: Characters](https://www.dndbeyond.com/characters) - Official D&D character resource
 * [D&D Beyond: Spell list](https://www.dndbeyond.com/spells) - Official D&D spell list
 * [D&D 5e Spell List](https://dnd.sharov.dev/) - Interactive D&D spell list / calculator
+* [DnD-Лист](https://d1manych.github.io/dnd-app/) - Free Russian D&D 5e character sheet & manager (PWA, offline, no signup): 36 ready-made builds with 1–20 level-up guides, 706 spells, 3D dice, combat tracker.
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
 * [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
 * [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
